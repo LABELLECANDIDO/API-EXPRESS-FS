@@ -15,3 +15,15 @@ language = "nodejs"
 run = ["node", "index.js"]
 deploymentTarget = "cloudrun"
 ignorePorts = false
+
+[[ports]]
+localPort = 35573
+externalPort = 3001
+
+[[ports]]
+localPort = 41017
+externalPort = 80
+
+[[ports]]
+localPort = 44103
+externalPort = 3000
