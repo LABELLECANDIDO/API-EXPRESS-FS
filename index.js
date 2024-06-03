@@ -10,12 +10,12 @@ let pessoas = [
     id: 1
   },
   {
-    nome: 'João',
+    nome: 'luiz',
     idade: 18,
     id: 2
   },
   {
-    nome: 'João pedro',
+    nome: 'pedro',
     idade: 15,
     id: 3
   }
