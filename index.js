@@ -13,6 +13,11 @@ let pessoas = [
     nome: 'João',
     idade: 18,
     id: 2
+  },
+  {
+    nome: 'João pedro',
+    idade: 15,
+    id: 3
   }
 ]
 
